@@ -1,0 +1,23 @@
+{
+    "name": "monokai-underdark",
+    "displayName": "Monokai Underdark",
+    "description": "Monokai Underdark color theme",
+    "version": "0.0.1",
+	"publisher": "zrthxn",
+	"repository": "https://github.com/zrthxn/vs-code-theme-monokai-underdark",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Underdark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai_Underdark-color-theme.json"
+            }
+        ]
+    }
+}
