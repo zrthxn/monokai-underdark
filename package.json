@@ -4,7 +4,7 @@
     "description": "Monokai Underdark color theme",
     "version": "0.0.1",
 	"publisher": "zrthxn",
-	"repository": "https://github.com/zrthxn/vs-code-theme-monokai-underdark",
+	"repository": "https://github.com/zrthxn/monokai-underdark",
     "engines": {
         "vscode": "^1.60.0"
     },
