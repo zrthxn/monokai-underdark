@@ -2,9 +2,10 @@
     "name": "monokai-underdark",
     "displayName": "Monokai Underdark",
     "description": "Monokai Underdark color theme",
-    "version": "0.0.3",
+    "version": "0.0.4",
 	"publisher": "zrthxn",
 	"repository": "https://github.com/zrthxn/monokai-underdark",
+    "icon": "images/preview.png",
     "engines": {
         "vscode": "^1.60.0"
     },
