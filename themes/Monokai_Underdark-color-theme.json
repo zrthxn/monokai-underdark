@@ -669,6 +669,8 @@
 		"breadcrumb.activeSelectionForeground": "#b1e2ff",
 		"editorGutter.commentRangeForeground": "#eeeeee",
 		"debugExceptionWidget.background": "#111111",
-		"debugExceptionWidget.border": "#00000000"
+		"debugExceptionWidget.border": "#00000000",
+		"notebook.cellBorderColor": "#111111",
+		"notebook.focusedCellBorder": "#444444",
 	}
 }
